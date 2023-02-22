@@ -1,7 +1,7 @@
 public class Funcionario {
    private String nome;
    private String cpf;
-   private double salario;
+    protected double salario;
 
    //public Funcionario(){ -> se não for criado o compilador insere automaticamente }
 

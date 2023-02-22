@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78a0fcb2-40ed-4524-9992-46de6c686356" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/TesteGerente.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FuncionarioTeste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gerente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Teste.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Funcionario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gerente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gerente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TesteGerente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TesteGerente.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,8 +67,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.TesteGerente" />
-        <item itemvalue="Application.Teste" />
         <item itemvalue="Application.TesteFuncionario" />
+        <item itemvalue="Application.Teste" />
       </list>
     </recent_temporary>
   </component>
@@ -102,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676979953006</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Adicionando arquivos do curso">
+      <created>1677064355511</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1677064355511</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
