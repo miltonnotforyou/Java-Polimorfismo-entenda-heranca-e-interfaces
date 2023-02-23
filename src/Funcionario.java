@@ -1,12 +1,12 @@
 public class Funcionario {
    private String nome;
    private String cpf;
-    protected double salario;
+    private double salario;
 
    //public Funcionario(){ -> se não for criado o compilador insere automaticamente }
 
     public double getBonificacao() {
-        return this.salario * 0.1;
+        return this.salario * 0.05;
     }
 
     public String getNome() {
