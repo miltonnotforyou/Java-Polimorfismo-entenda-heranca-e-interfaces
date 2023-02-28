@@ -1,8 +1,9 @@
 //nao pode instanciar essa classe, pq é abstrata
 public abstract class Funcionario {
-   private String nome;
-   private String cpf;
-    private double salario;
+
+        private String nome;
+        private String cpf;
+        private double salario;
 
    //public Funcionario(){ -> se não for criado o compilador insere automaticamente }
 
