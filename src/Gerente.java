@@ -1,6 +1,6 @@
 //gerente é Funcionario, Gerente herda da class funcionario, assina contrato autenticavel, é um autenticavel
 public class Gerente extends Funcionario implements Autenticavel {
-    private AutenticacaoUtil autenticador;
+    private final AutenticacaoUtil autenticador;
 
     public Gerente() {
         this.autenticador = new AutenticacaoUtil();
