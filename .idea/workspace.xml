@@ -2,17 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78a0fcb2-40ed-4524-9992-46de6c686356" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Administrador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Autenticavel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SistemaInterno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TesteSistema.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AutenticacaoUtil.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Funcionario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Administrador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Administrador.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cliente.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Gerente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gerente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TesteFuncionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TesteFuncionario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TesteGerente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TesteGerente.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,15 +32,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "I:/Projetos/Java Polimorfismo entenda heranca e interfaces/Banco_Herdado_conta/src",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;I:/Projetos/Java Polimorfismo entenda heranca e interfaces/Banco_Herdado_conta/src&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="Push.Settings">
     <force-push-targets>
       <force-push-target remote-path="origin" branch="main" />
@@ -185,7 +179,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677496636873</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Adicionando arquivos do curso">
+      <created>1677601627730</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1677601627730</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -228,8 +229,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="iniciando repositorio" />
-    <MESSAGE value="Adicionando arquivos do curso" />
     <MESSAGE value="Adicionando alteração abstract na classe funcionario" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adicionando alteração abstract na classe funcionario" />
+    <MESSAGE value="Adicionando arquivos do curso" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adicionando arquivos do curso" />
   </component>
 </project>
